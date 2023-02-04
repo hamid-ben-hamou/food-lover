@@ -450,6 +450,12 @@ header .fa-solid{
 	.our-menu .box{
 		display: block;
 	}
+	.our-menu .box .card{
+		margin-bottom: 35px;
+	}
+	.our-menu .box .card .actv{
+		margin-bottom: 0;
+	}
 }
 .our-menu .box .card{
 }
